@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+👀 View my portfolio here:  [Portfolio](http://mrtech.dev)
+📃 Check my resume out here: Miguel's Resume
+💬 Message me here:  [LinkedIn](https://www.linkedin.com/in/miguel-ramos-developer/)
+📬 Reach me via email:  [miguel@mrtech.dev](mailto:miguel@mrtech.dev)
+
+![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguelr215&show_icons=true&theme=dark)
+
 <!--
 **miguelr215/miguelr215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
