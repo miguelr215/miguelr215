@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👀 View my portfolio here:  [Portfolio](http://mrtech.dev)  
-📃 Check my resume out here: Miguel's Resume  
+📃 Check my resume out here: [Miguel's Resume](https://mrtech.dev/images/Miguel_Ramos_Resume.pdf)  
 💬 Message me here:  [LinkedIn](https://www.linkedin.com/in/miguel-ramos-developer/)  
 📬 Reach me via email:  [miguel@mrtech.dev](mailto:miguel@mrtech.dev)  
 
